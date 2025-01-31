@@ -1,3 +1,5 @@
+#----------------------------------------------
+ #SUB ROUTINES
 use strict;
 use warnings;
 
@@ -16,8 +18,8 @@ sub my_age_height {
 &my_name("Harsha", "Guthikonda");
 &my_age_height("23","6ft");
 
-
+#----------------------------------------------
 Output:
 Hi this is Harsha Guthikonda
 My age 23 and height 6ft
-
+#----------------------------------------------
